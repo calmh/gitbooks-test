@@ -8,11 +8,11 @@ There are a few trade-offs between the two:
 
 |  | Stable | Candidate |
 | :--- | :--- | :--- |
-| Stability | More Stable | More Experimental |
-| Features & Fixes | One month behind | Latest |
-| Auto Upgrades | Optional | Mandatory |
-| Usage Reporting | Optional | Mandatory |
-| Support | Fully Supported | Fully Supported |
+| **Stability** | More Stable | More Experimental |
+| **Features & Fixes** | One month behind | Latest |
+| **Auto Upgrades** | Optional | Mandatory |
+| **Usage Reporting** | Optional | Mandatory |
+| **Support** | Fully Supported | Fully Supported |
 
 Run the candidate channel if you are technically savvy and enjoy new features. Run the stable channel if you want to minimize the amount of surprises you might run into.
 
